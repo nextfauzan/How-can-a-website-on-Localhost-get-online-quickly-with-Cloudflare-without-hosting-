@@ -17,7 +17,7 @@ C:\laragon\www
 
 ---
 
-## 📥 Download Cloudflared (Tanpa Install Ribet)
+## 📥 Download Cloudflared Dulu
 
 Langkah ini menggunakan **Laragon Terminal / CMD**.
 
