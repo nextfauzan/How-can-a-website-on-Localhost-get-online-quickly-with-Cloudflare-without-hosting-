@@ -124,6 +124,10 @@ URL tersebut:
 * Lebih simpel dari ngrok
 * Cocok untuk Windows + Laragon
 
+## ✅ Kekurangan Cloudflare Tunnel
+
+* Web Lambat Namun Stabil
+
 ---
 
 ## 📌 Referensi Resmi
