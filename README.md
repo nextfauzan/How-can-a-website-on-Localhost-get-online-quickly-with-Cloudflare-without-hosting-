@@ -79,10 +79,10 @@ cloudflared.exe tunnel --url http://localhost
 
 ---
 
-### 🔹 Share project tertentu (contoh: project `upa`)
+### 🔹 Share project tertentu (contoh: project `buah`)
 
 ```bash
-cloudflared.exe tunnel --url http://localhost/upa
+cloudflared.exe tunnel --url http://localhost/buah
 ```
 
 ---
