@@ -1,13 +1,3 @@
-Siap 👍
-Berikut **dokumentasi langkah-langkah dalam format Markdown (.md)** yang **rapi, profesional, dan siap di-upload ke GitHub**.
-
-Kamu bisa simpan sebagai misalnya:
-`README-cloudflared-laragon.md` atau gabungkan ke `README.md`.
-
----
-
-```md
-# 🚀 Share Project Laragon ke Internet Menggunakan Cloudflare Tunnel (Windows)
 
 Panduan ini menjelaskan cara **menjalankan Cloudflare Tunnel (cloudflared)** di **Windows + Laragon** untuk membagikan project lokal (`localhost`) ke internet tanpa konfigurasi rumit.
 
@@ -145,14 +135,3 @@ URL tersebut:
 
 ✨ Selesai. Project Laragon kamu sekarang online!
 
-```
-
----
-
-Kalau mau, aku juga bisa:
-- Rapikan jadi **README GitHub profesional**
-- Tambahkan **badge**, **screenshot**, atau **diagram**
-- Sesuaikan dengan nama repo kamu
-
-Tinggal bilang 👍
-```
